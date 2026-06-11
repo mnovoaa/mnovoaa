@@ -46,7 +46,7 @@ CLIP y LLMs en una PWA real.
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | 🐾 **[TailFind](https://github.com/mnovoaa/tailfind)** | PWA para reunir mascotas perdidas con su familia, con visión por computador e IA | Blazor WASM · Firebase · CLIP · Google Vision · Groq |
-| 🎵 **[KUINA](https://github.com/mnovoaa/kuina-site)** | Sitio atmosférico de artista: niebla, partículas, audio y diario | TypeScript · Canvas · Web Audio |
+| 🎵 **[KUINA](https://github.com/mnovoaa/kuina-site)** | Sitio atmosférico de artista: niebla, partículas, audio y diario | JavaScript · Canvas · Web Audio |
 | 📡 **[Tairik](https://github.com/mnovoaa/Tairik)** | Sitio editorial con cuenta regresiva cinematográfica ([t4irik.cl](https://t4irik.cl)) | HTML · CSS · Canvas |
 | 🖤 **[Enigma YF](https://github.com/mnovoaa/enigma-yf)** | Mundo de artista con dirección gótica | HTML · CSS · JS |
 
