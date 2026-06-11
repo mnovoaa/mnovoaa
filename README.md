@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://showup.lat"><img src="assets/banner.svg" alt="Matías Olivares Novoa — Desarrollador Full-Stack + IA" width="100%"></a>
+  <a href="https://showup.lat"><img src="assets/banner.png" alt="Matías Olivares Novoa — Desarrollador Full-Stack + IA" width="100%"></a>
 </p>
 
 <p align="center">
